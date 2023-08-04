@@ -1,5 +1,5 @@
 const config = {
-  plugins: ['prettier-plugin-tailwindcss'],
+  plugins: ["prettier-plugin-tailwindcss"],
   semi: false,
   singleQuote: false,
   printWidth: 80,
